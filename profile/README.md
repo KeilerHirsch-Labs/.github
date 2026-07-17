@@ -28,7 +28,7 @@ the release, and an adversarial review pass before shipping.
 
 </div>
 
-<sub>Org avatar built from the "Stag Head", "Boar Tusks", and "Erlenmeyer" icons by
-[Lorc](https://lorcblog.blogspot.com/) via [game-icons.net](https://game-icons.net), recolored and
-recomposed, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). Full credits in
-[CREDITS.md](CREDITS.md).</sub>
+<sub>Org avatar built from five icons by [Lorc](https://lorcblog.blogspot.com/) via
+[game-icons.net](https://game-icons.net) ("Stag Head", "Boar Tusks", "Erlenmeyer", "Test Tubes",
+"Round Bottom Flask"), recolored and recomposed, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+Full credits in [CREDITS.md](CREDITS.md).</sub>
